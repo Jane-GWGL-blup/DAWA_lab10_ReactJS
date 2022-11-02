@@ -1,0 +1,37 @@
+#logo {
+    color: #000;   
+    font: 100%/1 Arial, Helvetica, sans-serif;
+    padding: 1em;
+     
+    }
+    
+#logo h1 {
+margin: 0;
+height: 150px;
+    
+}
+    
+#logo h1 span {
+    
+float: left;
+height: 100%;
+    
+}
+
+#logo h1 #css, #logo h1 #day {
+
+    font-size: 50px;
+    position: relative;
+    top: 15px;
+    }
+                 
+#logo h1 #css {
+                 
+color: #c00;
+                 
+}
+#logo h1 #day {
+                 
+color: rgb(42, 176, 116);
+                     
+}

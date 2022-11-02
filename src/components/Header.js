@@ -2,7 +2,11 @@ const Header = () => {
     return (
       <header className="header">
         <nav className="nav">
-            <a href="" className="logo nav-link">Logo</a>
+            <div href="" id="logo"><h1>
+            <span id="css">CSS</span>
+            <span id="day">Logo</span>
+            </h1>
+            </div>
           <ul className="nav-menu">
             <li className="nav-menu-item">
               <a className="nav-menu-link nav-link" href="/">Home</a>
