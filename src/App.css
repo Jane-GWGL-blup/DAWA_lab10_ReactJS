@@ -36,3 +36,64 @@
     transform: rotate(360deg);
   }
 }
+/* CSS Agregado */
+body{
+  background-color: rgb(185, 233, 251);
+  padding: 90px 20px 0;
+}
+h1{
+  color: rgb(36, 28, 113)
+}
+p{
+  font-weight: bold;
+}
+
+.header{
+  background-color: rgb(6, 6, 79);
+  position: fixed;
+  height: 100px;
+  width: 100%;
+  top:0;
+  left: 0;
+}
+
+.nav{
+  display: flex;
+  justify-content: space-between;
+  max-width: 992px;
+  margin: 0 auto;
+}
+
+.nav-menu{
+  display: flex;
+  margin-right: 40px;
+  list-style: none;
+}
+
+.nav-menu-item{
+  font-size: 20px;
+  margin: 0 10px;
+  line-height: 80px;
+  width: max-content;
+}
+
+.nav-link{
+  color: rgb(255,255,255);
+  text-decoration: none;
+}
+
+.nav-menu-link{
+  padding: 8px 12px;
+  border-radius: 3px;
+}
+
+.nav-menu-link:hover{
+  background-color: #053087;
+}
+
+.logo{
+  font-size: 25px;
+  font-weight: bold;
+  padding: 0 40px;
+  line-height: 80px;
+}
