@@ -14,6 +14,12 @@ const Header = () => {
             <li className="nav-menu-item">
               <a className="nav-menu-link nav-link" href="/about">About me</a>
             </li>
+            <li className="nav-menu-item">
+              <a className="nav-menu-link nav-link" href="/contact">Contact</a>
+            </li>
+            <li className="nav-menu-item">
+              <a className="nav-menu-link nav-link" href="/contact">Portafolio</a>
+            </li>
           </ul>
    
         </nav>

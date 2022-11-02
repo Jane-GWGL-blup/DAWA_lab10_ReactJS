@@ -93,7 +93,8 @@ hr{
 }
 
 .nav-menu-link:hover{
-  background-color: #053087;
+  background-color: #10347b;
+  color:rgb(156, 168, 205);
 }
 
 .footer{
